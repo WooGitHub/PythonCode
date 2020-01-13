@@ -1,3 +1,5 @@
+# author : Woo_home
+
 from tkinter import *                        # 导入tkinter的所有组件
 from tkinter.filedialog import askdirectory  # 导入目录操作库
 import tkinter.messagebox      # 弹出消息框
